@@ -7,7 +7,7 @@
     "mock": "json-server --watch db.json -p 8080"
   },
   "dependencies": {
-    "vue": "^3.0.2"
+    "vue": "^3.2.6"
   },
   "devDependencies": {
     "json-server": "^0.16.2",
